@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Aki (she/her) 👋
+
+- 🌱 Currently an undergraduate at UCLA studying Computer Science
+- 🌟 Interested in the intersection of technology and creativity
+- ✉️ For more info, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aki-hasegawa-johnson-302787229/)!
 
 <!--
 **aki0501/aki0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
